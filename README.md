@@ -3,7 +3,7 @@
 
 I'm Glavo，you can find me in these places:
 
-* Glavo' size：[glavo.site](https://glavo.site)
+* Glavo' site：[glavo.site](https://glavo.site)
 
 * Glavo / Twitter: [CattusGlavo](https://twitter.com/CattusGlavo)
 * Glavo / Bilibili：[Glavo - Bilibili](https://space.bilibili.com/20314891)
